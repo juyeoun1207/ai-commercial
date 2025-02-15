@@ -2,7 +2,7 @@ import streamlit as st
 import time
 
 # 코드스니펫 - 제목
-st.title('[스파르타] 제품 홍보 포스터 생성기')
+st.title('제품 홍보 포스터 생성기')
 
 # 코드스니펫 - 입력
 keyword = st.text_input("키워드를 입력하세요.")
